@@ -211,7 +211,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 9.84375
+  orthographic size: 7.9545455
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1593,10 +1593,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7417952152326728209, guid: 222e69ebdec890040a9c91383be72f4a, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -41
+      objectReference: {fileID: 0}
     - target: {fileID: 7417952152326728210, guid: 222e69ebdec890040a9c91383be72f4a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 5481492466180861786}
+    - target: {fileID: 7417952152341385736, guid: 222e69ebdec890040a9c91383be72f4a, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -70
+      objectReference: {fileID: 0}
+    - target: {fileID: 7417952152341385736, guid: 222e69ebdec890040a9c91383be72f4a, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 1359.354
+      objectReference: {fileID: 0}
     - target: {fileID: 7417952152597478480, guid: 222e69ebdec890040a9c91383be72f4a, type: 3}
       propertyPath: m_Name
       value: Level Finished Canvas
@@ -1689,10 +1701,22 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7417952152899565587, guid: 222e69ebdec890040a9c91383be72f4a, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -249
+      objectReference: {fileID: 0}
     - target: {fileID: 7417952152899565588, guid: 222e69ebdec890040a9c91383be72f4a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 5481492466180861786}
+    - target: {fileID: 7417952153000200996, guid: 222e69ebdec890040a9c91383be72f4a, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -116
+      objectReference: {fileID: 0}
+    - target: {fileID: 7417952153504152123, guid: 222e69ebdec890040a9c91383be72f4a, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 166
+      objectReference: {fileID: 0}
     - target: {fileID: 7417952153504152124, guid: 222e69ebdec890040a9c91383be72f4a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
